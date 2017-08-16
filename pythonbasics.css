@@ -1,0 +1,179 @@
+#container{
+    width: 100%;
+    background-color: #245176;
+    display:inline-block; 
+}
+#top{
+    display: inline-block;
+}
+#top img{
+    display: inline-block;
+}
+
+#top p{
+    color: white;
+    margin-left: 500px;
+    display: inline-block;
+    vertical-align: top;
+}
+#top p span a{
+    color:#ceaf05;  
+    display: inline-block;
+}
+#searchbar{
+    background-color: #444;
+    height: 50px; 
+    width: 250px;
+    text-align: center; 
+    margin-left: 1050px;
+    border-radius: 10px;
+    display: inline-block;
+    position: relative;
+    top:-133px;
+    
+    /* vertical-align: top; */  
+}
+#searchbar input{
+    margin-top: 12px;
+    border-radius: 5px;
+    display: inline-block;
+}
+#search{
+    text-align: center;
+    display: inline-block;
+}
+#navBar{
+    background-color: #437cac;
+    width:85%;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+#navBar ul{
+    margin-left: 100px;
+    list-style-type: none;
+}
+#mainContent{
+    display: inline-block;
+}
+#navBar ul li a{
+    color:#c9d9e7;
+    font-size: 30px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+#sidebar{
+    margin-left: 100px;
+    display: inline-block;
+}
+#sidebar ul li{
+    color:#c4b043;
+    margin-top: 15px;
+    
+}
+#sidebar ul li a{
+    color:white;
+    
+}
+#about{
+    width: 700px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 180px;
+    color:white;
+}
+#zen{
+    display: inline-block;
+    margin-left: 600px;
+    position: relative;
+    top: -150px;
+    text-align: center;
+}
+#zen ul{
+    list-style-type: none;
+    display: inline-block;
+}
+#zen ul li{
+    color:#f1cb34;
+    margin-top: 20px;
+    font-size: 20px;
+    font-style: italic;
+   
+}
+h4{
+    color: white;
+    margin-left: 30px;
+}
+#homeStretch{
+    background-color: white;
+    display: inline-block;
+    width: 1092px;
+    height:362px;
+}
+#gettingStarted{
+    width: 300px;
+    margin-left: 150px;
+    display: inline-block;
+}
+#gettingStarted ul li{
+    margin-top: 10px;
+}
+h3{
+    text-align: center;
+    margin-top: 30px;
+}
+#gettingStarted p{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+#gettingStarted ul li a{
+    color:#96bcdf;
+    text-align: center;
+}
+#applications{
+    width: 300px;
+    margin-left: 750px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    bottom: 300px;
+}
+#applications ul li{
+    margin-top: 10px;
+}
+h3{
+    text-align: center;
+    margin-top: 30px;
+}
+#applications p{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+#applications ul li a{
+    color:#96bcdf;
+    text-align: center;
+}
+#footer{
+    background-color:#27577f;
+}
+#footer ul{
+    text-align: center;
+    padding-top: 30px;
+}
+#footer ul li{
+    list-style-type: none;
+    margin-right: 30px;
+    
+
+}
+#footer ul li a{
+    color: #6fa3d0;
+    list-style-type: none;
+    text-decoration: none;
+    margin-right: 30px;
+    /* margin-top: 80px;  */
+}
+#footer p{
+color: #649bcc;
+font-size: 12px;
+text-align: center;
+}
